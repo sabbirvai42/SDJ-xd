@@ -263,7 +263,6 @@ class __xxx__:
                             pwx = [firstl+' '+lastl, xz[0]+"12345", xz[0]+"123"]
                         else:
                             pwv.append(frs+'@123')
-					        pwv.append(frs+'1234')
 					        pwv.append(frs+'@@@')
 					        pwv.append(frs+'###')
 					        pwv.append(frs+'#@')
